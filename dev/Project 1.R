@@ -1,0 +1,12 @@
+install.packages("tidyverse")
+install.packages("scales")
+remove.packages("rlang")
+install.packages("rlang")
+install.packages("tibble")
+install.packages("DBI")
+install.packages("fs")
+library(haven)
+library(tidyverse)
+anes_dat <- read_sav('C:/Users/Elise Nguyen/OneDrive/Documents/Applied DS/Fall2020-Project1-linhnguyen215538/data/anes_timeseries_cdf.sav')
+
+barplot(table(anes_dat$VCF0004),las=2,main = 'Number of Respondents over the years')
