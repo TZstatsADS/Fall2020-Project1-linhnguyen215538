@@ -9,12 +9,24 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2020
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: American Voting Behavior Analysis
++ This project is conducted by [Elise Nguyen]
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: 
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+While individual-level change in voting behaviour has not lead to a sizable shift in the overall split between political identification over the years, that is not the case within social and economic groups. 
+('https://www.pewresearch.org/politics/2020/08/04/voters-rarely-switch-parties-but-recent-shifts-further-educational-racial-divergence/')
+
+The project focuses on why individuals would or would not deviate from how they identify themselves politically to vote for candidates of their own or those of
+other parties, either on particular occasion or consistently. 
+
+In the project analysis, we will be using the American National Election Studies (ANES) time series data (1948-2016) to examine the voting behaviour of white Americans. In particular, we aim to answer the following questions:
+
+- Why white Americans voted for or against candidates of their affiliated parties over the years?
+- What are some social and economics characteristics of white Americans who did or did not retain their affiliation?
+- What are some similarities, changes or outliers in the trends and stereotypes of certain demographic groups observed in existing research?
+
+This folder is orgarnized as follows.
 
 ```
 proj/
